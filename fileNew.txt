@@ -1,3 +1,4 @@
 public class text{
-String text = "random";
+String text = "random2";
+String text1 = "random2";
 }

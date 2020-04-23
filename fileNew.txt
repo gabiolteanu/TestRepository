@@ -1,5 +1,9 @@
 public class text{
 
+
 String text = "random2";
 String text1 = "random2";
+
+String text = "random1";
+
 }
